@@ -24,7 +24,7 @@
 
 ### 📂 Works
 
-| <a href="https://github.com/moneymerge/moneymerge-BE"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=young5306&repo=moneymerge&theme=shadow_green&hide_border=true&rank_icon=github" alt="houseProject" /></a> | <a href="https://github.com/TripDisk/TripDisk_BE_prac"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=young5306&repo=TripDisk&theme=shadow_green&hide_border=true&rank_icon=github" alt="TripDisk" /></a> |
+| <a href="https://github.com/moneymerge/moneymerge-BE"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=young5306&repo=moneymerge alt="moneymerge" /></a> | <a href="https://github.com/TripDisk/TripDisk_BE_prac"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=young5306&repo=TripDisk&theme=shadow_green&hide_border=true&rank_icon=github" alt="TripDisk" /></a> |
 | ------------- | ------------- |
 
 <br>
