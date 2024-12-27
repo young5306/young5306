@@ -4,6 +4,8 @@
 **young5306/young5306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harrysunae)](https://solved.ac/harrysunae/)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +19,7 @@
 
 ### 🎯 My Github
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=young5306&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true&rank_icon=github" alt="github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young5306&layout=compact&theme=shadow_green&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=young5306&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true&rank_icon=default" alt="github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young5306&layout=compact&theme=shadow_green&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
