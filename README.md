@@ -17,7 +17,7 @@
 
 ### 🎯 My Github
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=young5306&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true&rank_icon=github" alt="MG's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young5306&layout=compact&theme=shadow_green&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=young5306&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true&rank_icon=github" alt="github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young5306&layout=compact&theme=shadow_green&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
